@@ -75,7 +75,8 @@ button:hover {
 }
 
 /* Heading */
-.h3,.menu__new-task-label {
+.h3,
+.menu__new-task-label {
     color: #333;
     font-weight: 700;
     font-size: 15px;
@@ -122,7 +123,10 @@ button:hover {
     align-items: center;
 }
 
-.checkbox,.menu__task,.menu__edit,.menu__delete {
+.checkbox,
+.menu__task,
+.menu__edit,
+.menu__delete {
     vertical-align: middle;
 }
 
